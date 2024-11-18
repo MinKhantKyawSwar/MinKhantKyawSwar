@@ -5,8 +5,24 @@ I am currently learning Python and Tensor flow for machine learning and AI!
 
 ###
 ## 📊 Stats
+<div display="flex"
+<div align="left">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKhantKyawSwar&layout=compact)
-
+</div>
+<div align="right">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?MinKhantKyawSwar=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme:tokyonight)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?MinKhantKyawSwar=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme:tokyonight), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?MinKhantKyawSwar=anuraghazra&show_icons=true" />
+</picture>
+</div>
+</div>
 ## 🔧 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
