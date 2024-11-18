@@ -4,26 +4,16 @@ I am currently studying at Info Myanmar Collage!
 I am currently learning Python and Tensor flow for machine learning and AI!
 
 ###
-## 📊 Stats
-<div display="flex"
-<div align="left">
+## 📊Stats 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKhantKyawSwar&layout=compact)
-</div>
-<div align="right">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?MinKhantKyawSwar=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme:tokyonight)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?MinKhantKyawSwar=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme:tokyonight), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?MinKhantKyawSwar=anuraghazra&show_icons=true" />
-</picture>
-</div>
-</div>
-## 🔧 Technologies & Tools
+[![MinKhant's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MinKhantKyawSwar&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MinKhantKyawSwar/github-readme-stats#gh-dark-mode-only) 
+[![MinKhant's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MinKhantKyawSwar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MinKhantKyawSwar/github-readme-stats#gh-light-mode-only)
+
+
+
+## <img height="20" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611m0kg1oy6svv83y90f22bad6t4ob0chnbf6zhkh4c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /> Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
