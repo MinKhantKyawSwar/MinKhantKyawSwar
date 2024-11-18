@@ -7,7 +7,6 @@ I am currently learning Python and Tensor flow for machine learning and AI!
 
 <img align="right" height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611m0kg1oy6svv83y90f22bad6t4ob0chnbf6zhkh4c&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
 ## 🔧 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
