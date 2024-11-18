@@ -4,6 +4,8 @@ I am currently studying at Info Myanmar Collage!
 I am currently learning Python and Tensor flow for machine learning and AI!
 
 ###
+##  Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinKhantKyawSwar)](https://github.com/MinKhantKyawSwar/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 <div align="left">
